@@ -1,0 +1,11 @@
+{
+  "name": "aisoulkit",
+  "description": "AI SOUL KIT — Spezialisierte Agenten fuer Strategie, Content und Sales. Aktiviert AXIOM, VANCE, CLOSER direkt in Claude Code.",
+  "author": {
+    "name": "Christoph Kaiser",
+    "email": "hello@aisoulkit.com",
+    "url": "https://aisoulkit.com"
+  },
+  "version": "1.0.0",
+  "license": "MIT"
+}
