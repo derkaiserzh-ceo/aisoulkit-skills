@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "aisoulkit",
+  "description": "AI SOUL KIT — Spezialisierte Agenten fuer Strategie, Content und Sales direkt in Claude Code",
+  "owner": {
+    "name": "Christoph Kaiser",
+    "email": "hello@aisoulkit.com"
+  },
+  "plugins": [
+    {
+      "name": "aisoulkit",
+      "description": "AXIOM, VANCE, CLOSER und SOUL Builder — disziplinierte KI-Agenten mit Effort-Level-System und Quality-Gates",
+      "author": {
+        "name": "Christoph Kaiser"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/derkaiserzh-ceo/aisoulkit-skills.git",
+        "path": "plugins/aisoulkit",
+        "ref": "main"
+      },
+      "homepage": "https://aisoulkit.com"
+    }
+  ]
+}
